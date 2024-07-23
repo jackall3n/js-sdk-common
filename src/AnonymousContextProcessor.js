@@ -93,3 +93,4 @@ function AnonymousContextProcessor(persistentStorage) {
 }
 
 module.exports = AnonymousContextProcessor;
+module.exports.ldUserIdKey = ldUserIdKey;
